@@ -26,7 +26,7 @@ Ensure you have the following installed on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/sagarpatil-17/redis-caching-patterns.git
    cd redis-caching-patterns
    ```
 
